@@ -1,5 +1,5 @@
 publishDir = "docs"
-baseurl = "/"
+baseurl = "https://logicaladeiraabaixo.github.io"
 title = "Lógica Ladeira Abaixo (LLA)"
 languageCode = "pt-br"
 paginate = "10" # Number of posts per page
