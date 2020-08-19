@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notícias on Lógica Ladeira Abaixo (LLA)</title>
-    <link>https://logicaladeiraabaixo.github.io/noticias/</link>
+    <link>/noticias/</link>
     <description>Recent content in Notícias on Lógica Ladeira Abaixo (LLA)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 28 Mar 2020 13:48:05 -0300</lastBuildDate>
     
-	<atom:link href="https://logicaladeiraabaixo.github.io/noticias/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/noticias/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
