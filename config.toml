@@ -1,3 +1,4 @@
+publishDir = "docs"
 baseurl = "/"
 title = "Lógica Ladeira Abaixo (LLA)"
 languageCode = "pt-br"
