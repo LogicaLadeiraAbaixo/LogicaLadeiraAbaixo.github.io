@@ -108,7 +108,15 @@
   </url>
   
   <url>
+    <loc>/membros/arthur/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/membros/debora/</loc>
   </url>
   
   <url>
@@ -136,7 +144,11 @@
   </url>
   
   <url>
-    <loc>/membros/rodrigo/</loc>
+    <loc>/membros/rodrigo_figueiredo/</loc>
+  </url>
+  
+  <url>
+    <loc>/membros/rodrigo_pereira/</loc>
   </url>
   
   <url>

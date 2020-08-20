@@ -165,7 +165,25 @@
     </item>
     
     <item>
-      <title>Francisco A. Nogueira Lages (Pesquisador)</title>
+      <title>Arthur de Castro Machado (Graduando)</title>
+      <link>/membros/arthur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/membros/arthur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Débora de Oliveira Silva (Graduando)</title>
+      <link>/membros/debora/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/membros/debora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Francisco Augusto Nogueira Lages (Pesquisador)</title>
       <link>/membros/francisco/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -201,7 +219,7 @@
     </item>
     
     <item>
-      <title>Luiz H. Marques Segundo (Pesquisador)</title>
+      <title>Luiz Helvécio Marques Segundo (Pesquisador)</title>
       <link>/membros/luiz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -219,11 +237,20 @@
     </item>
     
     <item>
-      <title>Rodrigo A. de Figueiredo (Pesquisador)</title>
-      <link>/membros/rodrigo/</link>
+      <title>Rodrigo Alexandre de Figueiredo (Pesquisador)</title>
+      <link>/membros/rodrigo_figueiredo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/membros/rodrigo/</guid>
+      <guid>/membros/rodrigo_figueiredo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rodrigo César Thadeu Barros Pereira (Pesquisador)</title>
+      <link>/membros/rodrigo_pereira/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/membros/rodrigo_pereira/</guid>
       <description></description>
     </item>
     
@@ -237,7 +264,7 @@
     </item>
     
     <item>
-      <title>Sérgio R. N. de Miranda (Pesquisador)</title>
+      <title>Sérgio Ricardo Neves de Miranda (Pesquisador)</title>
       <link>/membros/sergio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -246,7 +273,7 @@
     </item>
     
     <item>
-      <title>Vitor D. de Andrade (Graduando)</title>
+      <title>Vitor Douglas de Andrade (Graduando)</title>
       <link>/membros/vitor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
