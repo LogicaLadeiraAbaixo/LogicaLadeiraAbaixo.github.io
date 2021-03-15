@@ -4,7 +4,7 @@ date: 2020-03-25T16:58:53-03:00
 draft: false
 ---
 
-Neste semestre, as reuniões do LLA ocorrerão quinzenalmente todas as quintas-feiras, a partir das 14h. Em virtude das medidas de isolamento, os encontros então sendo realizados via Google Meet. Interessados em participar, favor enviar um email para logicaladeiraabaixo@gmail.com solicitando o acesso.
+Neste semestre, as reuniões do LLA ocorrerão quinzenalmente às quintas-feiras, a partir das 14h. Em razão das medidas de isolamento, os encontros então sendo realizados via Google Meet. Interessadas e interssados em participar, favor enviar um email para logicaladeiraabaixo@gmail.com solicitando o acesso.
 
 ## Confira o calendário dos nossos próximos encontros:
 
