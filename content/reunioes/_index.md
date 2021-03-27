@@ -10,8 +10,7 @@ Neste semestre, as reuniões do LLA ocorrerão quinzenalmente às quintas-feiras
 
 | Data       | Apresentação                    | Título
 | ----       | ------------                    | ------
-| 18/03/2021 | Fernando Furtado                | *Uma Análise da Doutrina da Modalidade Metafísica Relativizada*
-| 01/04/2021 | Newton Peron e Henrique Antunes | *Duas Lógicas da Ficção*
+| 01/04/2021 | Newton Peron e Henrique Antunes | *Duas lógicas da ficção*
 | 15/04/2021 | Kherian Gracher                 |
-| 29/04/2021 | Eros Moreira                    | *A Abordagem Ecológica das Habilidades e a Epistemologia dos Eixos*
-| 15/05/2021 | Arthur Machado                  |
+| 29/04/2021 | Eros Moreira                    | *A abordagem ecológica das habilidades e a epistemologia dos eixos*
+| 15/05/2021 | Arthur Machado                  | *Desafiando a persistência: é possível sobreviver além dos limites da identidade?*
