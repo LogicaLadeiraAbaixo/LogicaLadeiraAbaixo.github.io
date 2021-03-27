@@ -8,6 +8,15 @@
     <language>pt-br</language>
     <lastBuildDate>Wed, 25 Mar 2020 16:58:53 -0300</lastBuildDate><atom:link href="/reunioes/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Reunião 30 - 01/04/2021</title>
+      <link>/reunioes/reuniao_30-01042021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 -0300</pubDate>
+      
+      <guid>/reunioes/reuniao_30-01042021/</guid>
+      <description>Resumo: Nesta apresentação, discutiremos alguns dos principais problemas das abordagens aos nomes ficcionais baseadas na lógica clássica e em lógicas livres. Apresentaremos, em seguida, um tratamento alternativo para modelar raciocínios nos quais nomes ficcionais ocorrem, propondo que enunciados sejam avaliados como sendo realmente ou ficcionalmente verdadeiros (ou falsos). Formalmente, nossa abordagem envolve a formulação de duas lógicas que diferem-se pela maneira como os valores de verdade reais e ficcionais interagem entre si.</description>
+    </item>
+    
+    <item>
       <title>Reunião 29 - 18/03/2021</title>
       <link>/reunioes/reuniao_29-18032021/</link>
       <pubDate>Thu, 18 Feb 2021 00:00:00 -0300</pubDate>
