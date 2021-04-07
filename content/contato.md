@@ -1,5 +1,5 @@
 ---
-title: "Informações para Contato"
+title: "Informações para contato"
 draft: false
 ---
 
