@@ -10,7 +10,6 @@ Neste semestre, as reuniões do LLA ocorrerão quinzenalmente às quintas-feiras
 
 | Data       | Apresentação                    | Título
 | ----       | ------------                    | ------
-| 01/04/2021 | Newton Peron e Henrique Antunes | *Duas lógicas da ficção*
 | 15/04/2021 | Kherian Gracher                 | *3 x Não: Uma lógica com 3 negações*
 | 29/04/2021 | Eros Moreira                    | *A abordagem ecológica das habilidades e a epistemologia dos eixos*
 | 15/05/2021 | Arthur Machado                  | *Desafiando a persistência: é possível sobreviver além dos limites da identidade?*
