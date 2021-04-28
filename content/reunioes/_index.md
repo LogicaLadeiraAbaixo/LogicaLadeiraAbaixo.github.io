@@ -8,7 +8,7 @@ Neste semestre, as reuniões do LLA ocorrerão quinzenalmente às quintas-feiras
 
 ## Confira as datas dos nossos próximos encontros:
 
-| Data       | Apresentação                    | Título
-| ----       | ------------                    | ------
-| 29/04/2021 | Eros Moreira                    | *A abordagem ecológica das habilidades e a epistemologia dos eixos*
-| 15/05/2021 | Arthur Machado                  | *Desafiando a persistência: é possível sobreviver além dos limites da identidade?*
+| Data      	| Apresentação  	| Título
+| ----      	| ------------  	| ------
+| 29/04/2021	| Eros Moreira  	| *A abordagem ecológica das habilidades e a epistemologia dos eixos*
+| 15/05/2021	| Arthur Machado	| *Desafiando a persistência: é possível sobreviver além dos limites da identidade?*
