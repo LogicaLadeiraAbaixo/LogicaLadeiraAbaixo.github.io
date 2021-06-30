@@ -10,4 +10,4 @@ Neste semestre, as reuniões do LLA ocorrerão quinzenalmente às sextas-feiras,
 
 | Data      	| Apresentação  	| Título
 | ----      	| ------------  	| ------
-| 18/06/2021	| Arthur Machado	| *Desafiando a persistência: é possível sobreviver além dos limites da identidade?*
+| 02/07/2021	| Bruno Ramos	 	| *Puzzle de Frege, Sentido e Quantificadores*
