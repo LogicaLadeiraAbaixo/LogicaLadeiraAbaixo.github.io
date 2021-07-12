@@ -10,4 +10,4 @@ Neste semestre, as reuniões do LLA ocorrerão quinzenalmente às sextas-feiras,
 
 | Data      	| Apresentação  	| Título
 | ----      	| ------------  	| ------
-| 02/07/2021	| Bruno Ramos	 	| *Puzzle de Frege, Sentido e Quantificadores*
+| 16/07/2021	| Gelson Liston  	| *Filosofia da Ciência: Uma Análise Metateórica*
