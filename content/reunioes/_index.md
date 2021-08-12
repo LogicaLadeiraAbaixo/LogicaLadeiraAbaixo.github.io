@@ -10,4 +10,4 @@ Neste semestre, as reuniões do LLA ocorrerão quinzenalmente às sextas-feiras,
 
 | Data      	| Apresentação  	| Título
 | ----      	| ------------  	| ------
-| 16/07/2021	| Gelson Liston  	| *Filosofia da Ciência: Uma Análise Metateórica*
+| 13/08/2021	| Marcos Silva          | *Revisão da Lógica, Equilíbrio Reflexivo e Bidirecionalidade Normativa*
