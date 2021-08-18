@@ -14,5 +14,5 @@ logics, philosophy of logic, and philosophy of mathematics.
 ![Henrique](/images/henrique.jpg)
 
 * **Email address:** antunes.henrique[at]outlook[dot]com
-* [Curriculum Vitae](/documents/Curriculum_Vitae-EN-NoPD.pdf)
+* [Curriculum Vitae](/documents/CV-Henrique.pdf)
 

@@ -11,3 +11,4 @@ Theories, Paradoxes, Formal Semantics, Paraconsistency, and Conditionals.
 ![Guilherme](/images/guilherme.jpg)
 
 * **Email address:** guilherme.cardoso[at]ufop.edu[dot]br
+* [Curriculum Vitae](/documents/CV-Guilherme.pdf)
