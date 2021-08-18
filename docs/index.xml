@@ -5,8 +5,17 @@
     <link>/</link>
     <description>Recent content on Lógica Ladeira Abaixo (LLA)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language>
+    <language>en-us</language>
     <lastBuildDate>Sat, 21 Mar 2020 15:20:30 -0300</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reunião 37 - 20/08/2021</title>
+      <link>/reunioes/reuniao_37-20082021/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 -0300</pubDate>
+      
+      <guid>/reunioes/reuniao_37-20082021/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Reunião 36 - 13/08/2021</title>
       <link>/reunioes/reuniao_36-13082021/</link>
@@ -332,88 +341,140 @@
     </item>
     
     <item>
-      <title>Arthur de Castro Machado (Graduando)</title>
-      <link>/membros/arthur/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/membros/arthur/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Débora de Oliveira Silva (Graduando)</title>
-      <link>/membros/debora/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/membros/debora/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Francisco Augusto Nogueira Lages (Pesquisador)</title>
-      <link>/membros/francisco/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/membros/francisco/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Guilherme Araújo Cardoso (Coordenador)</title>
-      <link>/membros/guilherme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/membros/guilherme/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Henrique Antunes (Pesquisador)</title>
-      <link>/membros/henrique/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/membros/henrique/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Informações para contato</title>
+      <title></title>
       <link>/contato/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contato/</guid>
-      <description> Email: logicaladeiraabaixo@gmail.com Telefone: Endereço:  </description>
+      <description> Email address: logicaladeiraabaixo[at]gmail[dot]com Phone number: +55 3135591728 Address: 55 Coronel Alves Street, Ouro Preto, 35400-000  </description>
     </item>
     
     <item>
-      <title>Luiz Helvécio Marques Segundo (Pesquisador)</title>
+      <title>About</title>
+      <link>/sobre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sobre/</guid>
+      <description>We are a group of professors, colleagues, researchers, and students with common interests in Logic, Metaphysics, and Formal Philosophy. The group is hosted at the Federal University of Ouro Preto (UFOP), but it also counts with researchers from serveral different universities. We have a weekly based schedule, and our activities include both reading sessions and invited speakers. Some of our meetings have been recorded and are available on Youtube.</description>
+    </item>
+    
+    <item>
+      <title>Arthur de Castro Machado</title>
+      <link>/membros/arthur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/membros/arthur/</guid>
+      <description>I am an undergraduate student, majoring philosophy at the Federal University of Ouro Preto. My main research interests are Metaphysics, Philosophy of Mind, Logic, and Epistemology.
+ Email address: arthur.cmachado97[at]gmail[dot]com  </description>
+    </item>
+    
+    <item>
+      <title>Bruno Moreira</title>
+      <link>/membros/bruno/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/membros/bruno/</guid>
+      <description>Bachelor of Philosophy (2017-2019) from the Pontifical Catholic University of Minas Gerais (IFTDJ - PUC Minas), scholarship holder of the Mining Society of Culture, SMC, Minas Gerais, Brazil. Licensee in Philosophy (2020-2021), Pedagogical Training in Philosophy, by the Leonardo da Vinci University Center, UNIASSELVI. Specialization (2020 - 2021) in Higher Education Teaching (Latu Sensu Graduate) by The Dom Alberto College - FAVENI Group. Master&amp;rsquo;s degree (2021-) in Philosophy by the Graduate Program in Philosophy of the Federal University of Ouro Preto (UFOP), in the Line of Research: Metaphysics, Epistemology and Philosophy of Religion.</description>
+    </item>
+    
+    <item>
+      <title>Débora de Oliveira Silva</title>
+      <link>/membros/debora/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/membros/debora/</guid>
+      <description>I am an undergraduate student in philosophy at the Federal University of Ouro Preto. My main interests are philosophy of science, epistemology, metaphysics, and philosophy of language.
+ Email address: deboraverzul[at]gmail[dot]com  </description>
+    </item>
+    
+    <item>
+      <title>Ederson Safra Melo</title>
+      <link>/membros/ederson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/membros/ederson/</guid>
+      <description>I am Professor in the Department of Philosophy at Federal University of Maranhão (UFMA) and director of the Graduate Program in Philosophy, UFMA. I received my Phd in Philosophy from Federal University of Santa Catarina (UFSC). During my PhD, I was a Visiting Researcher Fellow at Brown University, USA. I work in logic and philosophy of logic, mainly interested in the notion of truth, semantic paradoxes, paraconsistency, anti-exceptionalism about logic and logical pluralism.</description>
+    </item>
+    
+    <item>
+      <title>Francisco Lages</title>
+      <link>/membros/francisco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/membros/francisco/</guid>
+      <description>Francisco Lages has a graduate and a Masters (CNPQ Scholarship) degree in Philosophy from UFMG, the same Institution where he is undertaking his Ph.D (CAPES Scholarship). He also graduated in International Relations at PUC-MG. His interests range from the Philosophy of Language and Fiction to the Philosophy of Science and Political Philosophy. Currently he researches theoretical scientific models as abstract artifacts in his Ph.D. and develops a parallel work regarding artifactualism and social mechanisms.</description>
+    </item>
+    
+    <item>
+      <title>Guilherme Araújo Cardoso</title>
+      <link>/membros/guilherme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/membros/guilherme/</guid>
+      <description>I am a Full Professor in the Department of Philosophy at the Universidade Federal de Ouro Preto (UFOP). I received my PhD in Philosophy from Universidade Federal de Minas Gerais (UFMG). My research interests include Logic, Metaphysics, Truth Theories, Paradoxes, Formal Semantics, Paraconsistency, and Conditionals.
+ Email address: guilherme.cardoso[at]ufop.edu[dot]br  </description>
+    </item>
+    
+    <item>
+      <title>Henrique Antunes</title>
+      <link>/membros/henrique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/membros/henrique/</guid>
+      <description>I received my PhD degree in Philosophy at the University of Campinas in 2019 under the supervision of Professor Walter Carnielli. I am currently an adjunct professor at the Federal University of Maranhão, a postdoctoral researcher at the Federal University of Minas Gerais, and a full member of the Advanced Reasoning Forum. My main research areas are: mathematical logic, non-classical logics, philosophy of logic, and philosophy of mathematics.
+ Email address: antunes.</description>
+    </item>
+    
+    <item>
+      <title>José Henrique Fonseca Franco</title>
+      <link>/membros/jose_henrique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/membros/jose_henrique/</guid>
+      <description>Graduated in Electrical Engineering with an emphasis on Electric Power Systems from the Federal University of Itajubá (Unifei) in 2015. He started a degree in Philosophy at the Federal University of São João del-Rei (UFSJ) in 2016. Worked on the Institutional Program for Initiation Scholarship at Teaching (PIBID/CAPES) of the Philosophy course. In the second semester of 2018, he held an exchange at the Universidad de San Buenaventura, Bogotá, D.C. through the BRACOL program.</description>
+    </item>
+    
+    <item>
+      <title>Lorenzzo Frade</title>
+      <link>/membros/lorenzzo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/membros/lorenzzo/</guid>
+      <description>I have a Bachelor&amp;rsquo;s degree in Philosophy from the Federal University of Minas Gerais (2013), and a Master&amp;rsquo;s degree in Philosophy from the Federal University of Minas Gerais (2017). I am currently a Visiting Professor at the Federal Instituto of Minas Gerais. I have experience in Philosophy, with an emphasis on Logic. Acting mainly on the topics of logical pluralism and philosophy of logic.
+ Email address: lorenzzo_frade[at]hotmail[dot]com  </description>
+    </item>
+    
+    <item>
+      <title>Luiz Helvécio Marques Segundo</title>
       <link>/membros/luiz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/membros/luiz/</guid>
-      <description></description>
+      <description>Received his PhD degree in Philosophy from Federal University of Santa Catarina (UFSC), Brazil, in 2020. In his dissertation he argues for a proper functionalist theory of knowledge based on sensitivity principle. Currently he is researcher in Brazilian Society for Philosophy of Religion (ABFR). His main interests are Epistemology, Philosophy of Science and Philosophy of Religion, having a particular interest for borderline questions involving biology and evolutionary psychology.
+ Email address: luizhelveciosegundo[at]gmail[dot]com Personal website: https://sites.</description>
     </item>
     
     <item>
-      <title>Matheus Marrega (Pesquisador)</title>
+      <title>Matheus Marrega</title>
       <link>/membros/matheus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/membros/matheus/</guid>
-      <description></description>
+      <description>I have a Bachelor&amp;rsquo;s Degree in Philosophy from the Federal University of Ouro Preto (UFOP). I&amp;rsquo;m currently a graduate student in Ethics and Political Philosophy also at the Federal University of Ouro Preto.
+ Email address: marrega.matheus[at]gmail[dot]com  </description>
     </item>
     
     <item>
-      <title>Pedro Luiz Caetano Filho (Pesquisador)</title>
+      <title>Pedro Luiz Caetano Filho</title>
       <link>/membros/pedro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/membros/pedro/</guid>
-      <description></description>
+      <description>I have a degree in Business Administration - Foreign Trade from União de Negócios e Administração (1989) and a master&amp;rsquo;s degree in Linguistic Studies from the Federal University of Minas Gerais (2004). I am a Database specialist with extensive experience in project management, analysis, software development and testing. Currently developing a doctoral thesis at the Federal University of Ouro Preto under the guidance of professors Marco Aurélio Sousa Alves and Guilherme Araújo Cardoso.</description>
     </item>
     
     <item>
-      <title>Rodrigo Alexandre de Figueiredo (Pesquisador)</title>
+      <title>Rodrigo Alexandre de Figueiredo</title>
       <link>/membros/rodrigo_figueiredo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -422,34 +483,27 @@
     </item>
     
     <item>
-      <title>Rodrigo César Thadeu Barros Pereira (Pesquisador)</title>
+      <title>Rodrigo César Thadeu Barros Pereira</title>
       <link>/membros/rodrigo_pereira/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/membros/rodrigo_pereira/</guid>
-      <description></description>
+      <description>PhD student of Philosophy at UFMG. Has Master (2012) and Bachelor (2007) degrees in Philosophy at UFMG. Is interested in Analytic Philosophy in general, especially in Mathematical Philosophy (use of logical and mathematical methods in the approach/solution of philosophical problems). Currently researching the following themes: Gödel&amp;rsquo;s Disjunction and Gödelian Arguments and their implications for computationalism and physicalism.
+ Email address: rodrigo.thbarros[at]gmail[dot]com  </description>
     </item>
     
     <item>
-      <title>Sobre o LLA</title>
-      <link>/sobre/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/sobre/</guid>
-      <description>O grupo de pesquisa Lógica Ladeira Abaixo surgiu no ano de 2019&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Sérgio Ricardo Neves de Miranda (Coordenador)</title>
+      <title>Sérgio Ricardo Neves de Miranda</title>
       <link>/membros/sergio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/membros/sergio/</guid>
-      <description></description>
+      <description>Professor of Philosophy at the Federal University of Ouro Preto, graduated in Psychology from the Pontifical Catholic University of Minas Gerais, Master in Philosophy from the Federal University of Minas Gerais, Doctor of Philosophy from the University of Bielefeld (Germany). Areas of interest: logic, epistemology and philosophy of religion. Currently researching on paradoxes of omniscience.
+ Email address: sergiornmiranda[at]ufop.edu[dot]br  </description>
     </item>
     
     <item>
-      <title>Vitor Douglas de Andrade (Graduando)</title>
+      <title>Vitor Douglas de Andrade</title>
       <link>/membros/vitor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

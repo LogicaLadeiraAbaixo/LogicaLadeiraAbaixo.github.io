@@ -1,8 +1,8 @@
 ---
-title: "Informações para contato"
+title: ""
 draft: false
 ---
 
-* Email: logicaladeiraabaixo@gmail.com
-* Telefone:
-* Endereço:
+* **Email address:** logicaladeiraabaixo[at]gmail[dot]com
+* **Phone number:** +55 3135591728
+* **Address:** 55 Coronel Alves Street, Ouro Preto, 35400-000

@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/reunioes/reuniao_37-20082021/</loc>
+    <lastmod>2021-07-20T00:00:00-03:00</lastmod>
+  </url><url>
     <loc>/reunioes/reuniao_36-13082021/</loc>
     <lastmod>2021-07-13T00:00:00-03:00</lastmod>
   </url><url>
@@ -74,17 +77,11 @@
     <loc>/reunioes/reuniao_13-26062020/</loc>
     <lastmod>2020-05-26T00:00:00-03:00</lastmod>
   </url><url>
-    <loc>/noticias/</loc>
-    <lastmod>2020-03-28T13:48:05-03:00</lastmod>
-  </url><url>
     <loc>/reunioes/</loc>
     <lastmod>2020-03-25T16:58:53-03:00</lastmod>
   </url><url>
     <loc>/</loc>
     <lastmod>2020-03-21T15:20:30-03:00</lastmod>
-  </url><url>
-    <loc>/membros/</loc>
-    <lastmod>2020-03-21T13:56:03-03:00</lastmod>
   </url><url>
     <loc>/reunioes/reuniao_12-13122019/</loc>
     <lastmod>2019-11-13T00:00:00-03:00</lastmod>
@@ -122,11 +119,19 @@
     <loc>/reunioes/reuniao_01-07062019/</loc>
     <lastmod>2019-05-07T00:00:00-03:00</lastmod>
   </url><url>
+    <loc>/contato/</loc>
+  </url><url>
+    <loc>/sobre/</loc>
+  </url><url>
     <loc>/membros/arthur/</loc>
+  </url><url>
+    <loc>/membros/bruno/</loc>
   </url><url>
     <loc>/categories/</loc>
   </url><url>
     <loc>/membros/debora/</loc>
+  </url><url>
+    <loc>/membros/ederson/</loc>
   </url><url>
     <loc>/membros/francisco/</loc>
   </url><url>
@@ -134,19 +139,23 @@
   </url><url>
     <loc>/membros/henrique/</loc>
   </url><url>
-    <loc>/contato/</loc>
+    <loc>/membros/jose_henrique/</loc>
+  </url><url>
+    <loc>/membros/lorenzzo/</loc>
   </url><url>
     <loc>/membros/luiz/</loc>
   </url><url>
     <loc>/membros/matheus/</loc>
+  </url><url>
+    <loc>/membros/</loc>
+  </url><url>
+    <loc>/noticias/</loc>
   </url><url>
     <loc>/membros/pedro/</loc>
   </url><url>
     <loc>/membros/rodrigo_figueiredo/</loc>
   </url><url>
     <loc>/membros/rodrigo_pereira/</loc>
-  </url><url>
-    <loc>/sobre/</loc>
   </url><url>
     <loc>/membros/sergio/</loc>
   </url><url>

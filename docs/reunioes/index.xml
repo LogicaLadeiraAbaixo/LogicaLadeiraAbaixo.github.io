@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reuniões on Lógica Ladeira Abaixo (LLA)</title>
+    <title>Meetings on Lógica Ladeira Abaixo (LLA)</title>
     <link>/reunioes/</link>
-    <description>Recent content in Reuniões on Lógica Ladeira Abaixo (LLA)</description>
+    <description>Recent content in Meetings on Lógica Ladeira Abaixo (LLA)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language>
+    <language>en-us</language>
     <lastBuildDate>Wed, 25 Mar 2020 16:58:53 -0300</lastBuildDate><atom:link href="/reunioes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reunião 37 - 20/08/2021</title>
+      <link>/reunioes/reuniao_37-20082021/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 -0300</pubDate>
+      
+      <guid>/reunioes/reuniao_37-20082021/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Reunião 36 - 13/08/2021</title>
       <link>/reunioes/reuniao_36-13082021/</link>

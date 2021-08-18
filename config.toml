@@ -1,7 +1,7 @@
 publishDir = "docs"
 baseurl = "/"
 title = "Lógica Ladeira Abaixo (LLA)"
-languageCode = "pt-br"
+languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "Mainroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
@@ -34,8 +34,9 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Params.logo]
   # image = "images/lla-logo.jpg" # Logo image. Path relative to "static"
-  title = "Lógica Ladeira Abaixo" # Logo title, otherwise will use site title
-  subtitle = "Grupo de pesquisa em lógica e metafísica vinculado ao departamento de filosofia da Universidade Federal de Ouro Preto" # Logo subtitle
+  title = "LLA - Lógica Ladeira Abaixo" # Logo title, otherwise will use site title
+  subtitle = "Research Group on Logic and Metaphysics - Federal University of Ouro Preto"
+  # Logo subtitle
 
 #[Params.sidebar]
 #  home = "false" # Configure layout for home page
@@ -58,41 +59,41 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 #  email = "email@example.com"
 	
 [[menu.main]]
-  name = "Início"
+  name = "Home"
   url = "/"
   weight = 1
   
 [[menu.main]]
-  name = "Notícias"
+  name = "News"
   url = "/noticias"
   weight = 2
 
 [[menu.main]]
-  name = "Sobre"
+  name = "About"
   url = "/sobre"
   weight = 3
 
 [[menu.main]]
-  name = "Membros"
+  name = "Members"
   url = "/membros/"
   weight = 4
 
 [[menu.main]]
-  name = "Reuniões"
+  name = "Meetings"
   url = "/reunioes/"
   weight = 5
 
 [[menu.main]]
-  name = "Eventos"
+  name = "Conferences"
   url = "/eventos/"
   weight = 6
 
 [[menu.main]]
-  name = "Galeria" 
+  name = "Gallery" 
   url = "/galeria/"
   weight = 7
 
 [[menu.main]]
-  name = "Contato" 
+  name = "Contact" 
   url = "/contato"
   weight = 8
