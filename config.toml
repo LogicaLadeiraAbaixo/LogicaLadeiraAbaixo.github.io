@@ -57,7 +57,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 #  linkedin = "username"
 #  telegram = "username"
 #  email = "email@example.com"
-	
+
 [[menu.main]]
   name = "Home"
   url = "/"
