@@ -10,21 +10,21 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 #[Author] # Used in authorbox
 #  name = "Henrique Antunes"
 #  bio = "" 
-#  avatar = "images/HA.jpg"
-#
+#  avatar = "/images/HA.jpg"
+
 [Params]
   subtitle = "Grupo de Pesquisa em Lógica e Metafísica" # Subtitle of your site. Used in site header
   description = "Grupo de Pesquisa em Lógica e Metafísica" # Site description. Used in meta description
   copyright = "LLA" # Footer copyright holder, otherwise will use site title
   opengraph = false # Enable OpenGraph if true
   twitter_cards = false # Enable Twitter Cards if true
-  readmore = false # Show "Read more" button in list if true
+  readmore = true # Show "Read more" button in list if true
   authorbox = false # Show authorbox at bottom of pages if true
   toc = false # Enable Table of Contents
   pager = true
   post_meta = ["date", "categories", "translations"] # Order of post meta information
   mainSections = ["post", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
-  dateformat = "02/01/2006" # Change the format of dates
+  dateformat = "01/02/2006" # Change the format of dates
   mathjax = false # Enable MathJax
   mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
   mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
@@ -33,30 +33,40 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   customJS = ["js/custom.js"] # Include custom JS files
 
 [Params.logo]
-  # image = "images/lla-logo.jpg" # Logo image. Path relative to "static"
+  image = "images/ufop-logo.png" # Logo image. Path relative to "static"
   title = "LLA - Lógica Ladeira Abaixo" # Logo title, otherwise will use site title
   subtitle = "Research Group on Logic and Metaphysics - Federal University of Ouro Preto"
   # Logo subtitle
 
-#[Params.sidebar]
-#  home = "false" # Configure layout for home page
-#  list = "false"  # Configure layout for list pages
-#  single = false # Configure layout for single pages
+[Params.sidebar]
+  home = "right" # Configure layout for home page
+  list = false  # Configure layout for list pages
+  single = false # Configure layout for single pages
 #  Enable widgets in given order
-#  widgets = ["search", "recent"]
+  widgets = ["social"]
 
-#[Params.widgets]
-#  recent_num = 5 # Set the number of articles in the "Recent articles" widget
-#  tags_counter = false # Enable counter for each tag in "Tags" widget
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget
 
-#[Params.widgets.social]
-# # Enable parts of social widget
-#  facebook = "username"
-#  twitter = "username"
-#  instagram = "username"
-#  linkedin = "username"
-#  telegram = "username"
-#  email = "email@example.com"
+[Params.widgets.social]
+ # Enable parts of social widget
+  #facebook = "username"
+  #twitter = "username"
+  #instagram = "username"
+  #linkedin = "username"
+  #telegram = "username"
+  email = "logicaladeiraabaixo.gmail.com"
+
+[[Params.widgets.social.custom]]
+  title = "Facebook"
+  url = ""
+  icon = "svg/facebook.svg"
+
+[[Params.widgets.social.custom]]
+  title = "Youtube"
+  url = "https://www.youtube.com/channel/UCVQg-1jmAK7MLHJitNd75tQ"
+  icon = "svg/author.svg"
 
 [[menu.main]]
   name = "Home"
