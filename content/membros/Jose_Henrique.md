@@ -19,4 +19,4 @@ Cardoso. In 2021 he started his Bachelor\'s Degree in Physics (UFOP).
 
 ![Jose_Henrique](/images/jose_henrique.jpg)
 
-* **Email address:** henriquefrancophi@gmail.com
+* **Email address:** henriquefrancophi[at]gmail[dot]com

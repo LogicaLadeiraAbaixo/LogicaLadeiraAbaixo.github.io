@@ -73,10 +73,10 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   url = "/"
   weight = 1
   
-[[menu.main]]
-  name = "News"
-  url = "/noticias"
-  weight = 2
+#[[menu.main]]
+#  name = "News"
+#  url = "/noticias"
+#  weight = 2
 
 [[menu.main]]
   name = "About"
@@ -93,15 +93,15 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   url = "/reunioes/"
   weight = 5
 
-[[menu.main]]
-  name = "Conferences"
-  url = "/eventos/"
-  weight = 6
+#[[menu.main]]
+#  name = "Conferences"
+#  url = "/eventos/"
+#  weight = 6
 
-[[menu.main]]
-  name = "Gallery" 
-  url = "/galeria/"
-  weight = 7
+#[[menu.main]]
+#  name = "Gallery" 
+#  url = "/galeria/"
+#  weight = 7
 
 [[menu.main]]
   name = "Contact" 
