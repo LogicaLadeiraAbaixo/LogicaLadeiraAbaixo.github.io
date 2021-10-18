@@ -6,6 +6,6 @@ draft: false
 
 ## Next meetings:
 
-| Date      	  | Talk
-| ----      	  | ------
-| August 20, 2021 | *Indício, Justificação e Crença em Deus* (Agnaldo Cuoco Portugal)
+| Date      	   | Talk
+| ----      	   | ------
+| October 22, 2021 | *Plonk, Tonk e Zoom: não vai a lugar nenhum!* (João Daniel Dantas)
